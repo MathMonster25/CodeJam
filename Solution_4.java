@@ -4,7 +4,7 @@
 
 import java.util.*;
 
-public class Solution {
+public class Solution_4 {
 
     static enum Changes {
         NONE,
